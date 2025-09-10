@@ -1,0 +1,16 @@
+
+@import "tailwindcss";
+@font-face {
+  font-family: 'valofont';
+  src: url('./assets/fonts/valofont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'tungsten';
+  src: url('./assets/fonts/tungsten.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
